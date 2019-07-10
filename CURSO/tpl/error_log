@@ -1,0 +1,7 @@
+[29-Jun-2019 15:35:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Rain\Tpl\NotFoundException: Template home.tpl not found! in /home/php7transferenci/public_html/tpl/vendor/rain/raintpl/library/Rain/Tpl.php:301
+Stack trace:
+#0 /home/php7transferenci/public_html/tpl/vendor/rain/raintpl/library/Rain/Tpl.php(85): Rain\Tpl->checkTemplate('home.tpl')
+#1 /home/php7transferenci/public_html/tpl/index.php(19): Rain\Tpl->draw('home.tpl')
+#2 {main}
+  thrown in /home/php7transferenci/public_html/tpl/vendor/rain/raintpl/library/Rain/Tpl.php on line 301
+[02-Jul-2019 13:37:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ')' in /home/php7transferenci/public_html/tpl/index.php on line 18

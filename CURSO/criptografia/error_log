@@ -1,0 +1,22 @@
+[05-Jul-2019 16:32:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/php7transferenci/public_html/criptografia/1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/criptografia/1.php on line 9
+[05-Jul-2019 16:32:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/php7transferenci/public_html/criptografia/1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/criptografia/1.php on line 9
+[05-Jul-2019 16:33:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/php7transferenci/public_html/criptografia/1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/criptografia/1.php on line 9
+[05-Jul-2019 16:43:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/php7transferenci/public_html/criptografia/1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/criptografia/1.php on line 9
+[05-Jul-2019 16:47:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/php7transferenci/public_html/criptografia/1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/criptografia/1.php on line 9
+[05-Jul-2019 16:53:44 America/Sao_Paulo] PHP Warning:  Use of undefined constant SECRET_iv - assumed 'SECRET_iv' (this will throw an Error in a future version of PHP) in /home/php7transferenci/public_html/criptografia/1.php on line 17
+[05-Jul-2019 16:53:44 America/Sao_Paulo] PHP Warning:  openssl_encrypt(): IV passed is only 9 bytes long, cipher expects an IV of precisely 16 bytes, padding with \0 in /home/php7transferenci/public_html/criptografia/1.php on line 17

@@ -1,0 +1,58 @@
+[29-Jun-2019 14:24:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[29-Jun-2019 14:25:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[29-Jun-2019 14:29:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[29-Jun-2019 14:33:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[29-Jun-2019 14:35:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[29-Jun-2019 14:40:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function isSMTP() on null in /home/php7transferenci/public_html/phpmailer/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 8
+[29-Jun-2019 14:40:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function isSMTP() on null in /home/php7transferenci/public_html/phpmailer/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 8
+[29-Jun-2019 14:40:20 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/php7transferenci/public_html/phpmailer/index.php on line 14
+[29-Jun-2019 14:40:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home/php7transferenci/public_html/phpmailer/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 41
+[29-Jun-2019 14:40:31 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/php7transferenci/public_html/phpmailer/index.php on line 17
+[29-Jun-2019 14:40:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home/php7transferenci/public_html/phpmailer/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 41
+[29-Jun-2019 14:40:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[29-Jun-2019 14:41:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[29-Jun-2019 19:35:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[02-Jul-2019 00:09:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5
+[02-Jul-2019 13:32:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/php7transferenci/public_html/phpmailer/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/phpmailer/index.php on line 5

@@ -1,0 +1,7 @@
+[29-Jun-2019 20:15:04 America/Sao_Paulo] PHP Warning:  A non-numeric value encountered in /home/php7transferenci/public_html/seguranca/3.php on line 6
+[29-Jun-2019 20:16:40 America/Sao_Paulo] PHP Warning:  mkdir(): No such file or directory in /home/php7transferenci/public_html/seguranca/3.php on line 6
+[05-Jul-2019 11:07:21 America/Sao_Paulo] PHP Warning:  Use of undefined constant CURL_SSL_VERIFYPEER - assumed 'CURL_SSL_VERIFYPEER' (this will throw an Error in a future version of PHP) in /home/php7transferenci/public_html/seguranca/cadastro.php on line 8
+[05-Jul-2019 11:07:21 America/Sao_Paulo] PHP Warning:  curl_setopt() expects parameter 2 to be integer, string given in /home/php7transferenci/public_html/seguranca/cadastro.php on line 8
+[05-Jul-2019 11:07:21 America/Sao_Paulo] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/php7transferenci/public_html/seguranca/cadastro.php on line 18
+[05-Jul-2019 11:07:54 America/Sao_Paulo] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/php7transferenci/public_html/seguranca/cadastro.php on line 18
+[05-Jul-2019 11:09:38 America/Sao_Paulo] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/php7transferenci/public_html/seguranca/cadastro.php on line 18

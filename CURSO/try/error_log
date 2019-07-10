@@ -1,0 +1,5 @@
+[28-Jun-2019 20:00:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Can only throw objects in /home/php7transferenci/public_html/try/2.php:5
+Stack trace:
+#0 /home/php7transferenci/public_html/try/2.php(13): trataNome('')
+#1 {main}
+  thrown in /home/php7transferenci/public_html/try/2.php on line 5

@@ -1,0 +1,16 @@
+[08-Jul-2019 16:43:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Slim' not found in /home/php7transferenci/public_html/LOJA-VIRTUAL/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/LOJA-VIRTUAL/index.php on line 7
+[08-Jul-2019 16:58:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Slim' not found in /home/php7transferenci/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/index.php on line 7
+[08-Jul-2019 17:41:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/php7transferenci/public_html/admin.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/admin.php on line 6
+[08-Jul-2019 17:44:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/php7transferenci/public_html/admin.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/php7transferenci/public_html/admin.php on line 6

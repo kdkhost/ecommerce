@@ -1,0 +1,2 @@
+[07-Jul-2019 15:19:53 America/Sao_Paulo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home/php7transferenci/public_html/ataques/1.php on line 8
+[07-Jul-2019 15:21:01 America/Sao_Paulo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home/php7transferenci/public_html/ataques/1.php on line 8

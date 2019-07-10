@@ -1,0 +1,18 @@
+{
+    "name": "kdkhost/composer",
+    "description": "Curso PHP 7",
+    "type": "projeto",
+    "authors": [
+        {
+            "name": "Marcelo-Brad",
+            "email": "marcelobradrj@gmail.com",
+            "homepage": "https://kdkhost.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "slim/slim": "^3.0",
+        "phpmailer/phpmailer": "~5.2"
+    }
+}
