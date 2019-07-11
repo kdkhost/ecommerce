@@ -6,7 +6,7 @@ class Sql {
 
 	const HOSTNAME = "localhost";
 	const USERNAME = "php7transferenci_loja";
-	const PASSWORD = "php7transferenci_loja";
+	const PASSWORD = "83388601Mj...";
 	const DBNAME = "php7transferenci_loja";
 
 	private $conn;
